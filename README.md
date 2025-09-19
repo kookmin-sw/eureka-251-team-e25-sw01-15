@@ -40,9 +40,9 @@
   - 과거에 사람들이 상상한 미래<br>
     - 현재 실현된 기술<br>
     [1] 1965년의 상상<br>
-    [2] Microsoft Future Vision<br>  
-    [3] 90년대의 상상<br>  
-    [4] Corning Vision<br>  
+    [2] Microsoft Future Vision<br>
+    [3] 90년대의 상상<br>
+    [4] Corning Vision<br>
     - 느낀점
   - 그들이 만들어가는 세상
   - 우리가 상상한 미래
