@@ -1,6 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to 15팀
 
+<div align="center" style="border: 1.5px solid #4FC3F7; border-radius: 15px; padding: 15px 25px; background: linear-gradient(145deg, #0d1117, #0c1b2a); color: #B3E5FC; box-shadow: 0 0 12px #2196F3; font-family: 'Courier New', monospace;">
+  <h2>💡 【미래기획 포스터】 💡</h2>
+</div>
+
+![미래 모습 포스터](https://github.com/user-attachments/assets/b0e202ab-4c5e-40f4-b515-9e48693b9a4e)
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
