@@ -6,6 +6,8 @@
 </div>
 
 ![미래 모습 포스터](https://github.com/user-attachments/assets/b0e202ab-4c5e-40f4-b515-9e48693b9a4e)
+https://drive.google.com/drive/folders/19EH4ru7brOIfof7ceHAFEkCdmlS30UjR?usp=drive_link
+
 
 ## 1️⃣ 팀원 소개
 
