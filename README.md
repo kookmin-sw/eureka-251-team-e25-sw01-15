@@ -242,7 +242,7 @@ https://drive.google.com/drive/folders/19EH4ru7brOIfof7ceHAFEkCdmlS30UjR?usp=dri
 - 동일 학교 대학원도 면접 존재(형식적임)
 
 ## 7. 조언
-- 관심 분야 교수님의 수업을 열심히 들기
+- 관심 분야 교수님의 수업을 열심히 듣기
 - 선형대수 기초 탄탄히 다지기
 
 ---
